@@ -1,0 +1,10 @@
+c:\users\sebastian\documents\visual studio 2015\Projects\Assignment5\Assignment5\bin\Debug\Assignment5.exe.config
+c:\users\sebastian\documents\visual studio 2015\Projects\Assignment5\Assignment5\bin\Debug\Assignment5.exe
+c:\users\sebastian\documents\visual studio 2015\Projects\Assignment5\Assignment5\bin\Debug\Assignment5.pdb
+c:\users\sebastian\documents\visual studio 2015\Projects\Assignment5\Assignment5\obj\Debug\Assignment5.csprojResolveAssemblyReference.cache
+c:\users\sebastian\documents\visual studio 2015\Projects\Assignment5\Assignment5\obj\Debug\Assignment5.MainForm.resources
+c:\users\sebastian\documents\visual studio 2015\Projects\Assignment5\Assignment5\obj\Debug\Assignment5.Properties.Resources.resources
+c:\users\sebastian\documents\visual studio 2015\Projects\Assignment5\Assignment5\obj\Debug\Assignment5.csproj.GenerateResource.Cache
+c:\users\sebastian\documents\visual studio 2015\Projects\Assignment5\Assignment5\obj\Debug\Assignment5.exe
+c:\users\sebastian\documents\visual studio 2015\Projects\Assignment5\Assignment5\obj\Debug\Assignment5.pdb
+c:\users\sebastian\documents\visual studio 2015\Projects\Assignment5\Assignment5\obj\Debug\Assignment5.FormIngredient.resources
